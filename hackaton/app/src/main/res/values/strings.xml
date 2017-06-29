@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">hackaton</string>
+    <string-array name="positions">
+        <item>--Select Position--</item>
+        <item>Intern</item>
+        <item>Co-op</item>
+        <item>Full time Employee</item>
+    </string-array>
+
+
+</resources>
