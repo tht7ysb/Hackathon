@@ -1,0 +1,748 @@
+[04-May-2017 05:52:09 UTC] PHP Warning:  include(storescripts/connect_to_mysql.php): failed to open stream: No such file or directory in /home/ortizj36/public_html/PIN/index.php on line 42
+[04-May-2017 05:52:09 UTC] PHP Warning:  include(): Failed opening 'storescripts/connect_to_mysql.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/ortizj36/public_html/PIN/index.php on line 42
+[04-May-2017 05:52:09 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ortizj36/public_html/PIN/index.php on line 43
+[04-May-2017 05:52:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ortizj36/public_html/PIN/index.php on line 45
+[04-May-2017 05:53:02 UTC] PHP Warning:  include(/~ortizj36/PIN/storescripts/connect_to_mysql.php): failed to open stream: No such file or directory in /home/ortizj36/public_html/PIN/index.php on line 42
+[04-May-2017 05:53:02 UTC] PHP Warning:  include(): Failed opening '/~ortizj36/PIN/storescripts/connect_to_mysql.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/ortizj36/public_html/PIN/index.php on line 42
+[04-May-2017 05:53:02 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ortizj36/public_html/PIN/index.php on line 43
+[04-May-2017 05:53:02 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ortizj36/public_html/PIN/index.php on line 45
+[04-May-2017 05:53:18 UTC] PHP Warning:  include(/~ortizj36/PIN/storescripts/connect_to_mysql.php): failed to open stream: No such file or directory in /home/ortizj36/public_html/PIN/index.php on line 42
+[04-May-2017 05:53:18 UTC] PHP Warning:  include(): Failed opening '/~ortizj36/PIN/storescripts/connect_to_mysql.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/ortizj36/public_html/PIN/index.php on line 42
+[04-May-2017 05:53:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ortizj36/public_html/PIN/index.php on line 43
+[04-May-2017 05:53:18 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ortizj36/public_html/PIN/index.php on line 45
+[04-May-2017 05:54:17 UTC] PHP Warning:  include(/PIN/storescripts/connect_to_mysql.php): failed to open stream: No such file or directory in /home/ortizj36/public_html/PIN/index.php on line 42
+[04-May-2017 05:54:17 UTC] PHP Warning:  include(): Failed opening '/PIN/storescripts/connect_to_mysql.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/ortizj36/public_html/PIN/index.php on line 42
+[04-May-2017 05:54:17 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ortizj36/public_html/PIN/index.php on line 43
+[04-May-2017 05:54:17 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ortizj36/public_html/PIN/index.php on line 45
+[04-May-2017 05:57:23 UTC] PHP Warning:  include(/PIN/storescripts/connect_to_mysql.php): failed to open stream: No such file or directory in /home/ortizj36/public_html/PIN/index.php on line 42
+[04-May-2017 05:57:23 UTC] PHP Warning:  include(): Failed opening '/PIN/storescripts/connect_to_mysql.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/ortizj36/public_html/PIN/index.php on line 42
+[04-May-2017 05:57:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ortizj36/public_html/PIN/index.php on line 43
+[04-May-2017 05:57:23 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ortizj36/public_html/PIN/index.php on line 45
+[04-May-2017 05:58:14 UTC] PHP Warning:  include(/PIN/storescripts/connect_to_mysql.php): failed to open stream: No such file or directory in /home/ortizj36/public_html/PIN/index.php on line 42
+[04-May-2017 05:58:14 UTC] PHP Warning:  include(): Failed opening '/PIN/storescripts/connect_to_mysql.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/ortizj36/public_html/PIN/index.php on line 42
+[04-May-2017 05:58:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ortizj36/public_html/PIN/index.php on line 43
+[04-May-2017 05:58:14 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ortizj36/public_html/PIN/index.php on line 45
+[04-May-2017 05:58:28 UTC] PHP Warning:  include(/PIN/storescripts/connect_to_mysql.php): failed to open stream: No such file or directory in /home/ortizj36/public_html/PIN/index.php on line 42
+[04-May-2017 05:58:28 UTC] PHP Warning:  include(): Failed opening '/PIN/storescripts/connect_to_mysql.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/ortizj36/public_html/PIN/index.php on line 42
+[04-May-2017 05:58:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ortizj36/public_html/PIN/index.php on line 43
+[04-May-2017 05:58:28 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ortizj36/public_html/PIN/index.php on line 45
+[04-May-2017 05:58:35 UTC] PHP Warning:  include(/home/ortizj36/public_html/PIN/storescripts/connect_to_mysql.php): failed to open stream: No such file or directory in /home/ortizj36/public_html/PIN/index.php on line 42
+[04-May-2017 05:58:35 UTC] PHP Warning:  include(): Failed opening '/home/ortizj36/public_html/PIN/storescripts/connect_to_mysql.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/ortizj36/public_html/PIN/index.php on line 42
+[04-May-2017 05:58:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ortizj36/public_html/PIN/index.php on line 43
+[04-May-2017 05:58:35 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ortizj36/public_html/PIN/index.php on line 45
+[04-May-2017 05:58:36 UTC] PHP Warning:  include(/home/ortizj36/public_html/PIN/storescripts/connect_to_mysql.php): failed to open stream: No such file or directory in /home/ortizj36/public_html/PIN/index.php on line 42
+[04-May-2017 05:58:36 UTC] PHP Warning:  include(): Failed opening '/home/ortizj36/public_html/PIN/storescripts/connect_to_mysql.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/ortizj36/public_html/PIN/index.php on line 42
+[04-May-2017 05:58:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ortizj36/public_html/PIN/index.php on line 43
+[04-May-2017 05:58:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ortizj36/public_html/PIN/index.php on line 45
+[04-May-2017 05:58:39 UTC] PHP Warning:  include(/home/ortizj36/public_html/PIN/storescripts/connect_to_mysql.php): failed to open stream: No such file or directory in /home/ortizj36/public_html/PIN/index.php on line 42
+[04-May-2017 05:58:39 UTC] PHP Warning:  include(): Failed opening '/home/ortizj36/public_html/PIN/storescripts/connect_to_mysql.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/ortizj36/public_html/PIN/index.php on line 42
+[04-May-2017 05:58:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ortizj36/public_html/PIN/index.php on line 43
+[04-May-2017 05:58:39 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ortizj36/public_html/PIN/index.php on line 45
+[04-May-2017 05:58:43 UTC] PHP Warning:  include(/home/ortizj36/public_html/PIN/storescripts/connect_to_mysql.php): failed to open stream: No such file or directory in /home/ortizj36/public_html/PIN/index.php on line 42
+[04-May-2017 05:58:43 UTC] PHP Warning:  include(): Failed opening '/home/ortizj36/public_html/PIN/storescripts/connect_to_mysql.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/ortizj36/public_html/PIN/index.php on line 42
+[04-May-2017 05:58:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ortizj36/public_html/PIN/index.php on line 43
+[04-May-2017 05:58:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ortizj36/public_html/PIN/index.php on line 45
+[04-May-2017 05:58:49 UTC] PHP Warning:  include(/home/ortizj36/public_html/PIN/storescripts/connect_to_mysql.php): failed to open stream: No such file or directory in /home/ortizj36/public_html/PIN/index.php on line 42
+[04-May-2017 05:58:49 UTC] PHP Warning:  include(): Failed opening '/home/ortizj36/public_html/PIN/storescripts/connect_to_mysql.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/ortizj36/public_html/PIN/index.php on line 42
+[04-May-2017 05:58:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ortizj36/public_html/PIN/index.php on line 43
+[04-May-2017 05:58:49 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ortizj36/public_html/PIN/index.php on line 45
+[04-May-2017 06:02:21 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'devd'@'localhost' (using password: YES) in /home/ortizj36/public_html/PIN/storescripts/connect_to_mysql.php on line 23
+[04-May-2017 06:05:35 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'ortizj36_root'@'localhost' to database 'databasemi' in /home/ortizj36/public_html/PIN/storescripts/connect_to_mysql.php on line 23
+[04-May-2017 06:06:19 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/ortizj36/public_html/PIN/storescripts/connect_to_mysql.php on line 23
+[04-May-2017 06:07:13 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/ortizj36/public_html/PIN/storescripts/connect_to_mysql.php on line 23
+[04-May-2017 06:08:55 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/ortizj36/public_html/PIN/storescripts/connect_to_mysql.php on line 23
+[04-May-2017 06:18:50 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/ortizj36/public_html/PIN/storescripts/connect_to_mysql.php on line 23
+[04-May-2017 06:20:31 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/ortizj36/public_html/PIN/storescripts/connect_to_mysql.php on line 23
+[04-May-2017 06:21:52 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Failed to parse address &quot;localhost:3306:3306&quot; in /home/ortizj36/public_html/PIN/storescripts/connect_to_mysql.php on line 23
+[04-May-2017 06:22:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ortizj36/public_html/PIN/index.php:34) in /home/ortizj36/public_html/PIN/index.php on line 68
+[04-May-2017 06:22:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ortizj36/public_html/PIN/index.php:34) in /home/ortizj36/public_html/PIN/index.php on line 68
+[04-May-2017 06:22:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/ortizj36/public_html/PIN/customerList.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/ortizj36/public_html/PIN/customerList.php on line 23
+[04-May-2017 06:22:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/ortizj36/public_html/PIN/customerList.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/ortizj36/public_html/PIN/customerList.php on line 23
+[04-May-2017 06:22:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/ortizj36/public_html/PIN/customerList.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/ortizj36/public_html/PIN/customerList.php on line 23
+[04-May-2017 06:22:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ortizj36/public_html/PIN/index.php:34) in /home/ortizj36/public_html/PIN/index.php on line 68
+[04-May-2017 06:22:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/ortizj36/public_html/PIN/customerList.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/ortizj36/public_html/PIN/customerList.php on line 23
+[04-May-2017 06:23:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/ortizj36/public_html/PIN/customerList.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/ortizj36/public_html/PIN/customerList.php on line 23
+[04-May-2017 06:24:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/ortizj36/public_html/PIN/customerList.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/ortizj36/public_html/PIN/customerList.php on line 23
+[04-May-2017 06:25:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqil_query() in /home/ortizj36/public_html/PIN/customerList.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/ortizj36/public_html/PIN/customerList.php on line 23
+[04-May-2017 06:25:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqil_query() in /home/ortizj36/public_html/PIN/customerList.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/ortizj36/public_html/PIN/customerList.php on line 23
+[04-May-2017 06:25:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqil_query() in /home/ortizj36/public_html/PIN/customerList.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/ortizj36/public_html/PIN/customerList.php on line 23
+[04-May-2017 06:25:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqil_query() in /home/ortizj36/public_html/PIN/customerList.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/ortizj36/public_html/PIN/customerList.php on line 23
+[04-May-2017 06:25:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_array() in /home/ortizj36/public_html/PIN/customerList.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/ortizj36/public_html/PIN/customerList.php on line 40
+[04-May-2017 06:25:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_array() in /home/ortizj36/public_html/PIN/customerList.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/ortizj36/public_html/PIN/customerList.php on line 40
+[04-May-2017 06:25:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_array() in /home/ortizj36/public_html/PIN/customerList.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/ortizj36/public_html/PIN/customerList.php on line 40
+[04-May-2017 06:25:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_array() in /home/ortizj36/public_html/PIN/customerList.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/ortizj36/public_html/PIN/customerList.php on line 40
+[04-May-2017 06:26:28 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/ortizj36/public_html/PIN/index.php on line 56
+[04-May-2017 06:26:28 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ortizj36/public_html/PIN/index.php on line 57
+[04-May-2017 06:26:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ortizj36/public_html/PIN/index.php:34) in /home/ortizj36/public_html/PIN/index.php on line 68
+[04-May-2017 06:27:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ortizj36/public_html/PIN/index.php:34) in /home/ortizj36/public_html/PIN/index.php on line 68
+[04-May-2017 06:27:38 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ortizj36/public_html/PIN/category.php:1) in /home/ortizj36/public_html/PIN/category.php on line 4
+[04-May-2017 06:28:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/ortizj36/public_html/PIN/product_list.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ortizj36/public_html/PIN/product_list.php on line 7
+[04-May-2017 06:28:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/ortizj36/public_html/PIN/product_list.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ortizj36/public_html/PIN/product_list.php on line 7
+[04-May-2017 06:30:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/ortizj36/public_html/PIN/product.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ortizj36/public_html/PIN/product.php on line 7
+[04-May-2017 06:37:43 UTC] PHP Warning:  include(/~ortizj36/PIN/storescripts/connect_to_mysql.php): failed to open stream: No such file or directory in /home/ortizj36/public_html/PIN/cart.php on line 3
+[04-May-2017 06:37:43 UTC] PHP Warning:  include(): Failed opening '/~ortizj36/PIN/storescripts/connect_to_mysql.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/ortizj36/public_html/PIN/cart.php on line 3
+[04-May-2017 06:37:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ortizj36/public_html/PIN/cart.php on line 52
+[04-May-2017 06:37:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ortizj36/public_html/PIN/cart.php on line 53
+[04-May-2017 06:38:44 UTC] PHP Warning:  include(/storescripts/connect_to_mysql.php): failed to open stream: No such file or directory in /home/ortizj36/public_html/PIN/cart.php on line 3
+[04-May-2017 06:38:44 UTC] PHP Warning:  include(): Failed opening '/storescripts/connect_to_mysql.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/ortizj36/public_html/PIN/cart.php on line 3
+[04-May-2017 06:38:44 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ortizj36/public_html/PIN/cart.php on line 52
+[04-May-2017 06:38:44 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ortizj36/public_html/PIN/cart.php on line 53
+[04-May-2017 06:44:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ortizj36/public_html/PIN/index.php:34) in /home/ortizj36/public_html/PIN/index.php on line 68
+[04-May-2017 06:44:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ortizj36/public_html/PIN/index.php:34) in /home/ortizj36/public_html/PIN/index.php on line 68
+[04-May-2017 06:44:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ortizj36/public_html/PIN/index.php:34) in /home/ortizj36/public_html/PIN/index.php on line 68
+[04-May-2017 06:49:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ortizj36/public_html/PIN/index.php:34) in /home/ortizj36/public_html/PIN/index.php on line 68
+[04-May-2017 07:07:38 UTC] PHP Warning:  include(storescripts/connect_to_mysql.php): failed to open stream: No such file or directory in /home/ortizj36/public_html/PIN/inventory_list.php on line 3
+[04-May-2017 07:07:38 UTC] PHP Warning:  include(): Failed opening 'storescripts/connect_to_mysql.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/ortizj36/public_html/PIN/inventory_list.php on line 3
+[04-May-2017 07:07:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/ortizj36/public_html/PIN/inventory_list.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/ortizj36/public_html/PIN/inventory_list.php on line 15
+[04-May-2017 07:10:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/ortizj36/public_html/PIN/inventory_list.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/ortizj36/public_html/PIN/inventory_list.php on line 15
+[04-May-2017 07:11:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/ortizj36/public_html/PIN/inventory_list.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/ortizj36/public_html/PIN/inventory_list.php on line 76
+[04-May-2017 07:11:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/ortizj36/public_html/PIN/inventory_list.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/ortizj36/public_html/PIN/inventory_list.php on line 76
+[04-May-2017 07:20:41 UTC] PHP Warning:  include(storescripts/connect_to_mysql.php): failed to open stream: No such file or directory in /home/ortizj36/public_html/PIN/product.php on line 5
+[04-May-2017 07:20:41 UTC] PHP Warning:  include(): Failed opening 'storescripts/connect_to_mysql.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/ortizj36/public_html/PIN/product.php on line 5
+[04-May-2017 07:20:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/ortizj36/public_html/PIN/product.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ortizj36/public_html/PIN/product.php on line 7
+[04-May-2017 07:21:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/ortizj36/public_html/PIN/product.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/ortizj36/public_html/PIN/product.php on line 28
+[04-May-2017 07:22:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ortizj36/public_html/PIN/cart.php:8) in /home/ortizj36/public_html/PIN/cart.php on line 35
+[04-May-2017 07:23:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ortizj36/public_html/PIN/cart.php:7) in /home/ortizj36/public_html/PIN/cart.php on line 34
+[04-May-2017 07:28:58 UTC] PHP Warning:  include(storescripts/connect_to_mysql.php): failed to open stream: No such file or directory in /home/ortizj36/public_html/PIN/cart.php on line 3
+[04-May-2017 07:28:58 UTC] PHP Warning:  include(): Failed opening 'storescripts/connect_to_mysql.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/ortizj36/public_html/PIN/cart.php on line 3
+[04-May-2017 07:32:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ortizj36/public_html/PIN/cart.php:8) in /home/ortizj36/public_html/PIN/cart.php on line 35
+[04-May-2017 07:33:25 UTC] PHP Warning:  include(storescripts/connect_to_mysql.php): failed to open stream: No such file or directory in /home/ortizj36/public_html/PIN/checkOut.php on line 4
+[04-May-2017 07:33:25 UTC] PHP Warning:  include(): Failed opening 'storescripts/connect_to_mysql.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/ortizj36/public_html/PIN/checkOut.php on line 4
+[04-May-2017 07:42:00 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ortizj36/public_html/PIN/checkOut.php on line 47
+[04-May-2017 07:42:00 UTC] PHP Warning:  mysqli_query(): Empty query in /home/ortizj36/public_html/PIN/checkOut.php on line 51
+[04-May-2017 07:42:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_num_rows() in /home/ortizj36/public_html/PIN/checkOut.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/ortizj36/public_html/PIN/checkOut.php on line 47
+[04-May-2017 07:55:59 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ortizj36/public_html/PIN/checkOut.php on line 47
+[04-May-2017 07:55:59 UTC] PHP Warning:  mysqli_query(): Empty query in /home/ortizj36/public_html/PIN/checkOut.php on line 51
+[04-May-2017 08:03:11 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ortizj36/public_html/PIN/checkOut.php on line 47
+[04-May-2017 08:03:11 UTC] PHP Warning:  mysqli_query(): Empty query in /home/ortizj36/public_html/PIN/checkOut.php on line 51
+[04-May-2017 08:03:14 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ortizj36/public_html/PIN/checkOut.php on line 47
+[04-May-2017 08:03:14 UTC] PHP Warning:  mysqli_query(): Empty query in /home/ortizj36/public_html/PIN/checkOut.php on line 51
+[04-May-2017 08:04:15 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ortizj36/public_html/PIN/checkOut.php on line 48
+[04-May-2017 08:04:15 UTC] PHP Warning:  mysqli_query(): Empty query in /home/ortizj36/public_html/PIN/checkOut.php on line 52
+[04-May-2017 08:05:07 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ortizj36/public_html/PIN/checkOut.php on line 48
+[04-May-2017 08:05:07 UTC] PHP Warning:  mysqli_query(): Empty query in /home/ortizj36/public_html/PIN/checkOut.php on line 52
+[04-May-2017 08:05:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ortizj36/public_html/PIN/checkOut.php:34) in /home/ortizj36/public_html/PIN/checkOut.php on line 75
+[04-May-2017 08:05:34 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ortizj36/public_html/PIN/checkOut.php on line 46
+[04-May-2017 08:05:34 UTC] PHP Warning:  mysqli_query(): Empty query in /home/ortizj36/public_html/PIN/checkOut.php on line 50
+[04-May-2017 08:05:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ortizj36/public_html/PIN/checkOut.php:36) in /home/ortizj36/public_html/PIN/checkOut.php on line 73
+[04-May-2017 08:06:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ortizj36/public_html/PIN/checkOut.php on line 46
+[04-May-2017 08:06:30 UTC] PHP Warning:  mysqli_query(): Empty query in /home/ortizj36/public_html/PIN/checkOut.php on line 50
+[04-May-2017 08:06:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ortizj36/public_html/PIN/checkOut.php:36) in /home/ortizj36/public_html/PIN/checkOut.php on line 73
+[04-May-2017 08:06:39 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ortizj36/public_html/PIN/checkOut.php on line 46
+[04-May-2017 08:06:39 UTC] PHP Warning:  mysqli_query(): Empty query in /home/ortizj36/public_html/PIN/checkOut.php on line 50
+[04-May-2017 08:06:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ortizj36/public_html/PIN/checkOut.php:36) in /home/ortizj36/public_html/PIN/checkOut.php on line 73
+[04-May-2017 08:06:41 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ortizj36/public_html/PIN/checkOut.php on line 46
+[04-May-2017 08:06:41 UTC] PHP Warning:  mysqli_query(): Empty query in /home/ortizj36/public_html/PIN/checkOut.php on line 50
+[04-May-2017 08:06:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ortizj36/public_html/PIN/checkOut.php:36) in /home/ortizj36/public_html/PIN/checkOut.php on line 73
+[04-May-2017 08:06:42 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ortizj36/public_html/PIN/checkOut.php on line 46
+[04-May-2017 08:06:42 UTC] PHP Warning:  mysqli_query(): Empty query in /home/ortizj36/public_html/PIN/checkOut.php on line 50
+[04-May-2017 08:06:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ortizj36/public_html/PIN/checkOut.php:36) in /home/ortizj36/public_html/PIN/checkOut.php on line 73
+[04-May-2017 08:06:44 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ortizj36/public_html/PIN/checkOut.php on line 46
+[04-May-2017 08:06:44 UTC] PHP Warning:  mysqli_query(): Empty query in /home/ortizj36/public_html/PIN/checkOut.php on line 50
+[04-May-2017 08:06:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ortizj36/public_html/PIN/checkOut.php:36) in /home/ortizj36/public_html/PIN/checkOut.php on line 73
+[04-May-2017 08:06:45 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ortizj36/public_html/PIN/checkOut.php on line 46
+[04-May-2017 08:06:45 UTC] PHP Warning:  mysqli_query(): Empty query in /home/ortizj36/public_html/PIN/checkOut.php on line 50
+[04-May-2017 08:06:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ortizj36/public_html/PIN/checkOut.php:36) in /home/ortizj36/public_html/PIN/checkOut.php on line 73
+[04-May-2017 08:07:52 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ortizj36/public_html/PIN/checkOut.php on line 46
+[04-May-2017 08:07:52 UTC] PHP Warning:  mysqli_query(): Empty query in /home/ortizj36/public_html/PIN/checkOut.php on line 50
+[04-May-2017 08:07:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ortizj36/public_html/PIN/checkOut.php:36) in /home/ortizj36/public_html/PIN/checkOut.php on line 73
+[04-May-2017 08:08:13 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ortizj36/public_html/PIN/checkOut.php on line 47
+[04-May-2017 08:08:13 UTC] PHP Warning:  mysqli_query(): Empty query in /home/ortizj36/public_html/PIN/checkOut.php on line 51
+[04-May-2017 08:08:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ortizj36/public_html/PIN/checkOut.php:37) in /home/ortizj36/public_html/PIN/checkOut.php on line 74
+[04-May-2017 08:08:39 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ortizj36/public_html/PIN/checkOut.php on line 47
+[04-May-2017 08:08:39 UTC] PHP Warning:  mysqli_query(): Empty query in /home/ortizj36/public_html/PIN/checkOut.php on line 51
+[04-May-2017 08:08:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ortizj36/public_html/PIN/checkOut.php:37) in /home/ortizj36/public_html/PIN/checkOut.php on line 74
+[04-May-2017 08:08:53 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ortizj36/public_html/PIN/checkOut.php on line 47
+[04-May-2017 08:08:53 UTC] PHP Warning:  mysqli_query(): Empty query in /home/ortizj36/public_html/PIN/checkOut.php on line 51
+[04-May-2017 08:08:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ortizj36/public_html/PIN/checkOut.php:47) in /home/ortizj36/public_html/PIN/checkOut.php on line 74
+[04-May-2017 08:09:32 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ortizj36/public_html/PIN/checkOut.php on line 47
+[04-May-2017 08:09:32 UTC] PHP Warning:  mysqli_query(): Empty query in /home/ortizj36/public_html/PIN/checkOut.php on line 51
+[04-May-2017 08:09:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ortizj36/public_html/PIN/checkOut.php:14) in /home/ortizj36/public_html/PIN/checkOut.php on line 74
+[04-May-2017 08:11:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ortizj36/public_html/PIN/checkOut.php on line 47
+[04-May-2017 08:11:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ortizj36/public_html/PIN/checkOut.php:14) in /home/ortizj36/public_html/PIN/checkOut.php on line 75
+[04-May-2017 08:11:47 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ortizj36/public_html/PIN/checkOut.php on line 48
+[04-May-2017 08:11:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ortizj36/public_html/PIN/checkOut.php:14) in /home/ortizj36/public_html/PIN/checkOut.php on line 76
+[04-May-2017 08:11:58 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ortizj36/public_html/PIN/checkOut.php on line 48
+[04-May-2017 08:11:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ortizj36/public_html/PIN/checkOut.php:14) in /home/ortizj36/public_html/PIN/checkOut.php on line 76
+[04-May-2017 08:13:23 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ortizj36/public_html/PIN/checkOut.php on line 48
+[04-May-2017 08:13:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ortizj36/public_html/PIN/checkOut.php:14) in /home/ortizj36/public_html/PIN/checkOut.php on line 76
+[04-May-2017 08:13:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ortizj36/public_html/PIN/checkOut.php:14) in /home/ortizj36/public_html/PIN/checkOut.php on line 73
+[04-May-2017 08:14:23 UTC] PHP Warning:  include(storescripts/connect_to_mysql.php): failed to open stream: No such file or directory in /home/ortizj36/public_html/PIN/orderComplete.php on line 3
+[04-May-2017 08:14:23 UTC] PHP Warning:  include(): Failed opening 'storescripts/connect_to_mysql.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/ortizj36/public_html/PIN/orderComplete.php on line 3
+[04-May-2017 08:14:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/ortizj36/public_html/PIN/orderComplete.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/ortizj36/public_html/PIN/orderComplete.php on line 56
+[04-May-2017 08:22:09 UTC] PHP Warning:  include(storescripts/connect_to_mysql.php): failed to open stream: No such file or directory in /home/ortizj36/public_html/PIN/cart.php on line 3
+[04-May-2017 08:22:09 UTC] PHP Warning:  include(): Failed opening 'storescripts/connect_to_mysql.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/ortizj36/public_html/PIN/cart.php on line 3
+[04-May-2017 08:22:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/ortizj36/public_html/PIN/cart.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/ortizj36/public_html/PIN/cart.php on line 52
+[04-May-2017 08:23:39 UTC] PHP Warning:  include(storescripts/connect_to_mysql.php): failed to open stream: No such file or directory in /home/ortizj36/public_html/PIN/cart.php on line 3
+[04-May-2017 08:23:39 UTC] PHP Warning:  include(): Failed opening 'storescripts/connect_to_mysql.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/ortizj36/public_html/PIN/cart.php on line 3
+[04-May-2017 08:23:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/ortizj36/public_html/PIN/cart.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/ortizj36/public_html/PIN/cart.php on line 52
+[04-May-2017 08:23:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/ortizj36/public_html/PIN/cart.php:135
+Stack trace:
+#0 {main}
+  thrown in /home/ortizj36/public_html/PIN/cart.php on line 135
+[04-May-2017 08:24:34 UTC] PHP Warning:  include(storescripts/connect_to_mysql.php): failed to open stream: No such file or directory in /home/ortizj36/public_html/PIN/user_list.php on line 3
+[04-May-2017 08:24:34 UTC] PHP Warning:  include(): Failed opening 'storescripts/connect_to_mysql.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/ortizj36/public_html/PIN/user_list.php on line 3
+[04-May-2017 08:24:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/ortizj36/public_html/PIN/user_list.php:62
+Stack trace:
+#0 {main}
+  thrown in /home/ortizj36/public_html/PIN/user_list.php on line 62
+[04-May-2017 08:26:53 UTC] PHP Warning:  include(storescripts/connect_to_mysql.php): failed to open stream: No such file or directory in /home/ortizj36/public_html/PIN/newCustomer.php on line 7
+[04-May-2017 08:26:53 UTC] PHP Warning:  include(): Failed opening 'storescripts/connect_to_mysql.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/ortizj36/public_html/PIN/newCustomer.php on line 7
+[04-May-2017 08:42:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ortizj36/public_html/PIN/cart.php:8) in /home/ortizj36/public_html/PIN/cart.php on line 35
+[04-May-2017 09:09:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ortizj36/public_html/PIN/customerList.php:18) in /home/ortizj36/public_html/PIN/customerList.php on line 80
+[04-May-2017 09:12:41 UTC] PHP Warning:  include(storescripts/connect_to_mysql.php): failed to open stream: No such file or directory in /home/ortizj36/public_html/PIN/customerList.php on line 16
+[04-May-2017 09:12:41 UTC] PHP Warning:  include(): Failed opening 'storescripts/connect_to_mysql.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/ortizj36/public_html/PIN/customerList.php on line 16
+[04-May-2017 09:12:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/ortizj36/public_html/PIN/customerList.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/ortizj36/public_html/PIN/customerList.php on line 23
+[04-May-2017 09:13:57 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ortizj36/public_html/PIN/customerList.php on line 73
+[04-May-2017 09:13:57 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ortizj36/public_html/PIN/customerList.php on line 74
+[04-May-2017 09:16:17 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ortizj36/public_html/PIN/customerList.php on line 73
+[04-May-2017 09:16:17 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ortizj36/public_html/PIN/customerList.php on line 74
+[04-May-2017 09:16:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ortizj36/public_html/PIN/customerList.php on line 73
+[04-May-2017 09:16:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ortizj36/public_html/PIN/customerList.php on line 74
+[04-May-2017 09:16:44 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ortizj36/public_html/PIN/customerList.php on line 73
+[04-May-2017 09:16:44 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ortizj36/public_html/PIN/customerList.php on line 74
+[04-May-2017 09:16:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ortizj36/public_html/PIN/customerList.php on line 73
+[04-May-2017 09:16:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ortizj36/public_html/PIN/customerList.php on line 74
+[04-May-2017 09:16:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ortizj36/public_html/PIN/customerList.php on line 73
+[04-May-2017 09:16:48 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ortizj36/public_html/PIN/customerList.php on line 74
+[04-May-2017 09:16:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ortizj36/public_html/PIN/customerList.php on line 73
+[04-May-2017 09:16:51 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ortizj36/public_html/PIN/customerList.php on line 74
+[04-May-2017 09:16:53 UTC] PHP Warning:  include(storescripts/connect_to_mysql.php): failed to open stream: No such file or directory in /home/ortizj36/public_html/PIN/newCustomer.php on line 7
+[04-May-2017 09:16:53 UTC] PHP Warning:  include(): Failed opening 'storescripts/connect_to_mysql.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/ortizj36/public_html/PIN/newCustomer.php on line 7
+[04-May-2017 09:18:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ortizj36/public_html/PIN/customerList.php on line 73
+[04-May-2017 09:18:55 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ortizj36/public_html/PIN/customerList.php on line 74
+[04-May-2017 09:19:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ortizj36/public_html/PIN/customerList.php on line 73
+[04-May-2017 09:19:13 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ortizj36/public_html/PIN/customerList.php on line 74
+[04-May-2017 09:21:58 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ortizj36/public_html/PIN/Inventory.php:1) in /home/ortizj36/public_html/PIN/Inventory.php on line 3
+[04-May-2017 09:23:59 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ortizj36/public_html/PIN/Inventory.php:1) in /home/ortizj36/public_html/PIN/Inventory.php on line 3
+[04-May-2017 09:24:35 UTC] PHP Warning:  include(storescripts/connect_to_mysql.php): failed to open stream: No such file or directory in /home/ortizj36/public_html/PIN/transactionList.php on line 16
+[04-May-2017 09:24:35 UTC] PHP Warning:  include(): Failed opening 'storescripts/connect_to_mysql.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/ortizj36/public_html/PIN/transactionList.php on line 16
+[04-May-2017 09:24:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ortizj36/public_html/PIN/transactionList.php on line 25
+[04-May-2017 09:24:35 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ortizj36/public_html/PIN/transactionList.php on line 27
+[04-May-2017 09:24:35 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ortizj36/public_html/PIN/transactionList.php on line 32
+[04-May-2017 09:25:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_array() in /home/ortizj36/public_html/PIN/transactionList.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/ortizj36/public_html/PIN/transactionList.php on line 46
+[04-May-2017 09:32:38 UTC] PHP Warning:  include(storescripts/connect_to_mysql.php): failed to open stream: No such file or directory in /home/ortizj36/public_html/PIN/pastTransactions.php on line 16
+[04-May-2017 09:32:38 UTC] PHP Warning:  include(): Failed opening 'storescripts/connect_to_mysql.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/ortizj36/public_html/PIN/pastTransactions.php on line 16
+[04-May-2017 09:32:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/ortizj36/public_html/PIN/pastTransactions.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/ortizj36/public_html/PIN/pastTransactions.php on line 25
+[04-May-2017 09:33:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_array() in /home/ortizj36/public_html/PIN/pastTransactions.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/ortizj36/public_html/PIN/pastTransactions.php on line 51
+[04-May-2017 09:34:33 UTC] PHP Warning:  include(storescripts/connect_to_mysql.php): failed to open stream: No such file or directory in /home/ortizj36/public_html/PIN/detailed_transaction.php on line 16
+[04-May-2017 09:34:33 UTC] PHP Warning:  include(): Failed opening 'storescripts/connect_to_mysql.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/ortizj36/public_html/PIN/detailed_transaction.php on line 16
+[04-May-2017 09:34:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/ortizj36/public_html/PIN/detailed_transaction.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/ortizj36/public_html/PIN/detailed_transaction.php on line 27
+[04-May-2017 13:07:55 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ortizj36/public_html/PIN/pastTransactions.php on line 27
+[04-May-2017 13:07:55 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ortizj36/public_html/PIN/pastTransactions.php on line 31
+[04-May-2017 13:07:55 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ortizj36/public_html/PIN/pastTransactions.php on line 35
+[04-May-2017 13:12:05 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ortizj36/public_html/PIN/customerList.php on line 73
+[04-May-2017 13:12:05 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ortizj36/public_html/PIN/customerList.php on line 74
+[04-May-2017 13:12:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ortizj36/public_html/PIN/pastTransactions.php on line 27
+[04-May-2017 13:12:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ortizj36/public_html/PIN/pastTransactions.php on line 31
+[04-May-2017 13:12:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ortizj36/public_html/PIN/pastTransactions.php on line 35
+[04-May-2017 13:12:09 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ortizj36/public_html/PIN/customerList.php on line 73
+[04-May-2017 13:12:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ortizj36/public_html/PIN/customerList.php on line 74
+[04-May-2017 13:12:11 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ortizj36/public_html/PIN/customerList.php on line 73
+[04-May-2017 13:12:11 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ortizj36/public_html/PIN/customerList.php on line 74
+[04-May-2017 13:12:12 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ortizj36/public_html/PIN/customerList.php on line 73
+[04-May-2017 13:12:12 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ortizj36/public_html/PIN/customerList.php on line 74
+[04-May-2017 13:13:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ortizj36/public_html/PIN/customerList.php on line 73
+[04-May-2017 13:13:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ortizj36/public_html/PIN/customerList.php on line 74
+[04-May-2017 13:13:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ortizj36/public_html/PIN/customerList.php on line 73
+[04-May-2017 13:13:52 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ortizj36/public_html/PIN/customerList.php on line 74
+[04-May-2017 13:13:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ortizj36/public_html/PIN/customerList.php on line 73
+[04-May-2017 13:13:55 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ortizj36/public_html/PIN/customerList.php on line 74
+[04-May-2017 13:14:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ortizj36/public_html/PIN/customerList.php on line 73
+[04-May-2017 13:14:06 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ortizj36/public_html/PIN/customerList.php on line 74
+[04-May-2017 13:14:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ortizj36/public_html/PIN/customerList.php on line 73
+[04-May-2017 13:14:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ortizj36/public_html/PIN/customerList.php on line 74
+[04-May-2017 13:14:12 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ortizj36/public_html/PIN/customerList.php on line 73
+[04-May-2017 13:14:12 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ortizj36/public_html/PIN/customerList.php on line 74
+[04-May-2017 13:14:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ortizj36/public_html/PIN/customerList.php on line 73
+[04-May-2017 13:14:14 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ortizj36/public_html/PIN/customerList.php on line 74
+[04-May-2017 13:14:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ortizj36/public_html/PIN/customerList.php on line 73
+[04-May-2017 13:14:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ortizj36/public_html/PIN/customerList.php on line 74
+[04-May-2017 13:15:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ortizj36/public_html/PIN/customerList.php on line 74
+[04-May-2017 13:15:16 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ortizj36/public_html/PIN/customerList.php on line 75
+[04-May-2017 13:15:22 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ortizj36/public_html/PIN/customerList.php on line 74
+[04-May-2017 13:15:22 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ortizj36/public_html/PIN/customerList.php on line 75
+[04-May-2017 13:15:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ortizj36/public_html/PIN/customerList.php:18) in /home/ortizj36/public_html/PIN/customerList.php on line 81
+[04-May-2017 13:15:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ortizj36/public_html/PIN/customerList.php:18) in /home/ortizj36/public_html/PIN/customerList.php on line 81
+[04-May-2017 13:16:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ortizj36/public_html/PIN/customerList.php:67) in /home/ortizj36/public_html/PIN/customerList.php on line 75
+[04-May-2017 13:16:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ortizj36/public_html/PIN/customerList.php:67) in /home/ortizj36/public_html/PIN/customerList.php on line 75
+[04-May-2017 20:53:05 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ortizj36/public_html/PIN/pastTransactions.php on line 27
+[04-May-2017 20:53:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ortizj36/public_html/PIN/pastTransactions.php on line 31
+[04-May-2017 20:53:05 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ortizj36/public_html/PIN/pastTransactions.php on line 35
+[06-May-2017 03:18:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/ortizj36/public_html/PIN/newCustomer.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/ortizj36/public_html/PIN/newCustomer.php on line 21
+[06-May-2017 03:25:07 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/ortizj36/public_html/PIN/newCustomer.php on line 21
+[06-May-2017 03:25:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/ortizj36/public_html/PIN/newCustomer.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/ortizj36/public_html/PIN/newCustomer.php on line 37
+[06-May-2017 03:26:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/ortizj36/public_html/PIN/newCustomer.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/ortizj36/public_html/PIN/newCustomer.php on line 37
+[06-May-2017 03:28:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_insert_id() in /home/ortizj36/public_html/PIN/newCustomer.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/ortizj36/public_html/PIN/newCustomer.php on line 46
+[06-May-2017 03:30:22 UTC] PHP Warning:  mysqli_insert_id() expects exactly 1 parameter, 0 given in /home/ortizj36/public_html/PIN/newCustomer.php on line 46
+[06-May-2017 03:30:22 UTC] PHP Warning:  mysqli_insert_id() expects exactly 1 parameter, 0 given in /home/ortizj36/public_html/PIN/newCustomer.php on line 58
+[06-May-2017 03:30:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ortizj36/public_html/PIN/newCustomer.php:10) in /home/ortizj36/public_html/PIN/newCustomer.php on line 60
+[06-May-2017 03:32:02 UTC] PHP Warning:  mysqli_insert_id() expects exactly 1 parameter, 0 given in /home/ortizj36/public_html/PIN/newCustomer.php on line 46
+[06-May-2017 03:32:02 UTC] PHP Warning:  mysqli_insert_id() expects exactly 1 parameter, 0 given in /home/ortizj36/public_html/PIN/newCustomer.php on line 58
+[06-May-2017 03:32:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ortizj36/public_html/PIN/newCustomer.php:10) in /home/ortizj36/public_html/PIN/newCustomer.php on line 60
+[06-May-2017 03:33:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ortizj36/public_html/PIN/pastTransactions.php on line 27
+[06-May-2017 03:33:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ortizj36/public_html/PIN/pastTransactions.php on line 31
+[06-May-2017 03:33:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ortizj36/public_html/PIN/pastTransactions.php on line 35
+[06-May-2017 03:35:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ortizj36/public_html/PIN/newCustomer.php:10) in /home/ortizj36/public_html/PIN/newCustomer.php on line 60
+[06-May-2017 03:38:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ortizj36/public_html/PIN/newCustomer.php:10) in /home/ortizj36/public_html/PIN/newCustomer.php on line 60
+[06-May-2017 03:41:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ortizj36/public_html/PIN/newCustomer.php:10) in /home/ortizj36/public_html/PIN/newCustomer.php on line 60
+[06-May-2017 03:42:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ortizj36/public_html/PIN/newCustomer.php:10) in /home/ortizj36/public_html/PIN/newCustomer.php on line 60
+[06-May-2017 03:45:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ortizj36/public_html/PIN/newCustomer.php:10) in /home/ortizj36/public_html/PIN/newCustomer.php on line 60
+[06-May-2017 03:46:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ortizj36/public_html/PIN/newCustomer.php:10) in /home/ortizj36/public_html/PIN/newCustomer.php on line 60
+[06-May-2017 04:15:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/ortizj36/public_html/PIN/newCustomer.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/ortizj36/public_html/PIN/newCustomer.php on line 58
+[06-May-2017 04:23:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/ortizj36/public_html/PIN/user_list.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/ortizj36/public_html/PIN/user_list.php on line 23
+[06-May-2017 05:13:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/ortizj36/public_html/PIN/inventory_list.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/ortizj36/public_html/PIN/inventory_list.php on line 48
+[06-May-2017 05:21:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/ortizj36/public_html/PIN/inventory_list.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/ortizj36/public_html/PIN/inventory_list.php on line 48
+[06-May-2017 05:23:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/ortizj36/public_html/PIN/inventory_list.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/ortizj36/public_html/PIN/inventory_list.php on line 50
+[06-May-2017 05:28:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_num_rows() in /home/ortizj36/public_html/PIN/inventory_list.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/ortizj36/public_html/PIN/inventory_list.php on line 54
+[06-May-2017 05:28:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/ortizj36/public_html/PIN/inventory_list.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/ortizj36/public_html/PIN/inventory_list.php on line 60
+[06-May-2017 05:29:27 UTC] PHP Catchable fatal error:  Object of class mysqli could not be converted to string in /home/ortizj36/public_html/PIN/inventory_list.php on line 60
+[06-May-2017 05:30:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_insert_id() in /home/ortizj36/public_html/PIN/inventory_list.php:62
+Stack trace:
+#0 {main}
+  thrown in /home/ortizj36/public_html/PIN/inventory_list.php on line 62
+[06-May-2017 05:31:01 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ortizj36/public_html/PIN/Inventory.php:1) in /home/ortizj36/public_html/PIN/Inventory.php on line 3
+[06-May-2017 05:31:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/ortizj36/public_html/PIN/Inventory.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/ortizj36/public_html/PIN/Inventory.php on line 30
+[06-May-2017 05:35:02 UTC] PHP Warning:  mysqli_insert_id() expects exactly 1 parameter, 0 given in /home/ortizj36/public_html/PIN/inventory_list.php on line 58
+[06-May-2017 05:35:02 UTC] PHP Warning:  move_uploaded_file(/~ortizj36/PIN/inventory_Images/.jpg): failed to open stream: No such file or directory in /home/ortizj36/public_html/PIN/inventory_list.php on line 61
+[06-May-2017 05:35:02 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpXDhsG6' to '/~ortizj36/PIN/inventory_Images/.jpg' in /home/ortizj36/public_html/PIN/inventory_list.php on line 61
+[06-May-2017 05:35:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ortizj36/public_html/PIN/inventory_list.php:58) in /home/ortizj36/public_html/PIN/inventory_list.php on line 62
+[06-May-2017 05:39:51 UTC] PHP Warning:  move_uploaded_file(/~ortizj36/PIN/inventory_Images/40.jpg): failed to open stream: No such file or directory in /home/ortizj36/public_html/PIN/inventory_list.php on line 61
+[06-May-2017 05:39:52 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpHSqCQO' to '/~ortizj36/PIN/inventory_Images/40.jpg' in /home/ortizj36/public_html/PIN/inventory_list.php on line 61
+[06-May-2017 05:39:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ortizj36/public_html/PIN/inventory_list.php:61) in /home/ortizj36/public_html/PIN/inventory_list.php on line 62
+[06-May-2017 05:46:03 UTC] PHP Warning:  move_uploaded_file(/~ortizj36/PIN/inventory_Images/41.jpg): failed to open stream: No such file or directory in /home/ortizj36/public_html/PIN/inventory_list.php on line 61
+[06-May-2017 05:46:03 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpI8uiPq' to '/~ortizj36/PIN/inventory_Images/41.jpg' in /home/ortizj36/public_html/PIN/inventory_list.php on line 61
+[06-May-2017 05:46:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ortizj36/public_html/PIN/inventory_list.php:61) in /home/ortizj36/public_html/PIN/inventory_list.php on line 62
+[06-May-2017 05:49:25 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ortizj36/public_html/PIN/inventory_edit.php:1) in /home/ortizj36/public_html/PIN/inventory_edit.php on line 4
+[06-May-2017 05:49:30 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ortizj36/public_html/PIN/inventory_edit.php:1) in /home/ortizj36/public_html/PIN/inventory_edit.php on line 4
+[06-May-2017 05:49:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/ortizj36/public_html/PIN/inventory_edit.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/ortizj36/public_html/PIN/inventory_edit.php on line 14
+[06-May-2017 05:51:54 UTC] PHP Warning:  move_uploaded_file(/~ortizj36/PIN/inventory_Images/42.jpg): failed to open stream: No such file or directory in /home/ortizj36/public_html/PIN/inventory_list.php on line 61
+[06-May-2017 05:51:54 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpYMWnbm' to '/~ortizj36/PIN/inventory_Images/42.jpg' in /home/ortizj36/public_html/PIN/inventory_list.php on line 61
+[06-May-2017 05:51:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ortizj36/public_html/PIN/inventory_list.php:61) in /home/ortizj36/public_html/PIN/inventory_list.php on line 62
+[06-May-2017 05:57:40 UTC] PHP Warning:  move_uploaded_file(/~ortizj36/PIN/inventory_Images/43.jpg): failed to open stream: No such file or directory in /home/ortizj36/public_html/PIN/inventory_list.php on line 61
+[06-May-2017 05:57:40 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpSI7PjH' to '/~ortizj36/PIN/inventory_Images/43.jpg' in /home/ortizj36/public_html/PIN/inventory_list.php on line 61
+[06-May-2017 05:57:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ortizj36/public_html/PIN/inventory_list.php:61) in /home/ortizj36/public_html/PIN/inventory_list.php on line 62
+[06-May-2017 06:10:09 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ortizj36/public_html/PIN/Inventory.php:1) in /home/ortizj36/public_html/PIN/Inventory.php on line 3
+[06-May-2017 06:10:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/ortizj36/public_html/PIN/Inventory.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/ortizj36/public_html/PIN/Inventory.php on line 30
+[06-May-2017 20:43:06 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ortizj36/public_html/PIN/inventory_edit.php:1) in /home/ortizj36/public_html/PIN/inventory_edit.php on line 4
+[06-May-2017 20:44:23 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ortizj36/public_html/PIN/pastTransactions.php on line 27
+[06-May-2017 20:44:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ortizj36/public_html/PIN/pastTransactions.php on line 31
+[06-May-2017 20:44:23 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ortizj36/public_html/PIN/pastTransactions.php on line 35
+[06-May-2017 21:00:36 UTC] PHP Warning:  mysqli_query(): Empty query in /home/ortizj36/public_html/PIN/checkOut.php on line 48
+[06-May-2017 21:00:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ortizj36/public_html/PIN/checkOut.php:48) in /home/ortizj36/public_html/PIN/checkOut.php on line 74
+[06-May-2017 21:05:24 UTC] PHP Warning:  include(storescripts/connect_to_mysql.php): failed to open stream: No such file or directory in /home/ortizj36/public_html/PIN/checkOut.php on line 4
+[06-May-2017 21:05:24 UTC] PHP Warning:  include(): Failed opening 'storescripts/connect_to_mysql.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/ortizj36/public_html/PIN/checkOut.php on line 4
+[06-May-2017 21:05:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/ortizj36/public_html/PIN/checkOut.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/ortizj36/public_html/PIN/checkOut.php on line 15
+[06-May-2017 21:05:26 UTC] PHP Warning:  include(storescripts/connect_to_mysql.php): failed to open stream: No such file or directory in /home/ortizj36/public_html/PIN/checkOut.php on line 4
+[06-May-2017 21:05:26 UTC] PHP Warning:  include(): Failed opening 'storescripts/connect_to_mysql.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/ortizj36/public_html/PIN/checkOut.php on line 4
+[06-May-2017 21:05:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/ortizj36/public_html/PIN/checkOut.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/ortizj36/public_html/PIN/checkOut.php on line 15
+[06-May-2017 21:06:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/ortizj36/public_html/PIN/checkOut.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/ortizj36/public_html/PIN/checkOut.php on line 15
+[06-May-2017 21:07:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_num_rows() in /home/ortizj36/public_html/PIN/checkOut.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ortizj36/public_html/PIN/checkOut.php on line 16
+[06-May-2017 21:07:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_array() in /home/ortizj36/public_html/PIN/checkOut.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/ortizj36/public_html/PIN/checkOut.php on line 19
+[06-May-2017 21:08:20 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ortizj36/public_html/PIN/checkOut.php on line 47
+[06-May-2017 21:08:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/ortizj36/public_html/PIN/checkOut.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/ortizj36/public_html/PIN/checkOut.php on line 51
+[06-May-2017 21:09:59 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ortizj36/public_html/PIN/checkOut.php on line 47
+[06-May-2017 21:09:59 UTC] PHP Warning:  mysqli_query(): Empty query in /home/ortizj36/public_html/PIN/checkOut.php on line 51
+[06-May-2017 21:09:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/ortizj36/public_html/PIN/checkOut.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/ortizj36/public_html/PIN/checkOut.php on line 66
+[06-May-2017 21:12:13 UTC] PHP Warning:  mysqli_query(): Empty query in /home/ortizj36/public_html/PIN/checkOut.php on line 48
+[06-May-2017 21:12:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ortizj36/public_html/PIN/checkOut.php:48) in /home/ortizj36/public_html/PIN/checkOut.php on line 74
+[06-May-2017 21:48:42 UTC] PHP Warning:  include(storescripts/connect_to_mysql.php): failed to open stream: No such file or directory in /home/ortizj36/public_html/PIN/search.php on line 45
+[06-May-2017 21:48:42 UTC] PHP Warning:  include(): Failed opening 'storescripts/connect_to_mysql.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/ortizj36/public_html/PIN/search.php on line 45
+[06-May-2017 21:48:42 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/ortizj36/public_html/PIN/search.php on line 47
+[06-May-2017 21:48:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_num_rows() in /home/ortizj36/public_html/PIN/search.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/ortizj36/public_html/PIN/search.php on line 50
+[06-May-2017 21:48:48 UTC] PHP Warning:  include(storescripts/connect_to_mysql.php): failed to open stream: No such file or directory in /home/ortizj36/public_html/PIN/search.php on line 45
+[06-May-2017 21:48:48 UTC] PHP Warning:  include(): Failed opening 'storescripts/connect_to_mysql.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/ortizj36/public_html/PIN/search.php on line 45
+[06-May-2017 21:48:48 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/ortizj36/public_html/PIN/search.php on line 47
+[06-May-2017 21:48:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_num_rows() in /home/ortizj36/public_html/PIN/search.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/ortizj36/public_html/PIN/search.php on line 50
+[06-May-2017 21:49:28 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/ortizj36/public_html/PIN/search.php on line 47
+[06-May-2017 21:49:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_num_rows() in /home/ortizj36/public_html/PIN/search.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/ortizj36/public_html/PIN/search.php on line 50
+[06-May-2017 21:50:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_num_rows() in /home/ortizj36/public_html/PIN/search.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/ortizj36/public_html/PIN/search.php on line 50
+[06-May-2017 21:50:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_array() in /home/ortizj36/public_html/PIN/search.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/ortizj36/public_html/PIN/search.php on line 60
+[06-May-2017 22:08:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/ortizj36/public_html/PIN/user_list.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/ortizj36/public_html/PIN/user_list.php on line 23
+[06-May-2017 22:10:38 UTC] PHP Warning:  mysqli_insert_id() expects exactly 1 parameter, 0 given in /home/ortizj36/public_html/PIN/user_list.php on line 38
+[06-May-2017 22:10:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ortizj36/public_html/PIN/user_list.php:5) in /home/ortizj36/public_html/PIN/user_list.php on line 40
+[06-May-2017 22:11:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ortizj36/public_html/PIN/user_list.php:5) in /home/ortizj36/public_html/PIN/user_list.php on line 14
+[06-May-2017 22:11:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ortizj36/public_html/PIN/user_list.php:5) in /home/ortizj36/public_html/PIN/user_list.php on line 40
+[06-May-2017 22:12:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ortizj36/public_html/PIN/user_list.php:5) in /home/ortizj36/public_html/PIN/user_list.php on line 40
+[06-May-2017 22:13:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ortizj36/public_html/PIN/user_list.php:23) in /home/ortizj36/public_html/PIN/user_list.php on line 35
+[06-May-2017 22:16:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ortizj36/public_html/PIN/user_list.php:23) in /home/ortizj36/public_html/PIN/user_list.php on line 35
+[06-May-2017 22:19:22 UTC] PHP Warning:  move_uploaded_file(/~ortizj36/PIN/inventory_Images/44.jpg): failed to open stream: No such file or directory in /home/ortizj36/public_html/PIN/inventory_list.php on line 61
+[06-May-2017 22:19:22 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpqdwol5' to '/~ortizj36/PIN/inventory_Images/44.jpg' in /home/ortizj36/public_html/PIN/inventory_list.php on line 61
+[06-May-2017 22:19:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ortizj36/public_html/PIN/inventory_list.php:61) in /home/ortizj36/public_html/PIN/inventory_list.php on line 62
+[06-May-2017 22:20:25 UTC] PHP Warning:  move_uploaded_file(/~ortizj36/PIN/inventory_Images/45.jpg): failed to open stream: No such file or directory in /home/ortizj36/public_html/PIN/inventory_list.php on line 61
+[06-May-2017 22:20:25 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpqzBlm4' to '/~ortizj36/PIN/inventory_Images/45.jpg' in /home/ortizj36/public_html/PIN/inventory_list.php on line 61
+[06-May-2017 22:20:36 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ortizj36/public_html/PIN/Inventory.php:1) in /home/ortizj36/public_html/PIN/Inventory.php on line 3
+[06-May-2017 22:20:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/ortizj36/public_html/PIN/Inventory.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/ortizj36/public_html/PIN/Inventory.php on line 30
+[06-May-2017 22:20:51 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ortizj36/public_html/PIN/Inventory.php:1) in /home/ortizj36/public_html/PIN/Inventory.php on line 3
+[06-May-2017 22:20:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/ortizj36/public_html/PIN/Inventory.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/ortizj36/public_html/PIN/Inventory.php on line 30
+[06-May-2017 22:21:45 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ortizj36/public_html/PIN/Inventory.php:1) in /home/ortizj36/public_html/PIN/Inventory.php on line 3
+[06-May-2017 22:21:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/ortizj36/public_html/PIN/Inventory.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/ortizj36/public_html/PIN/Inventory.php on line 30
+[06-May-2017 22:22:23 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ortizj36/public_html/PIN/Inventory.php:1) in /home/ortizj36/public_html/PIN/Inventory.php on line 3
+[06-May-2017 22:22:23 UTC] PHP Warning:  mysqli_close() expects exactly 1 parameter, 0 given in /home/ortizj36/public_html/PIN/Inventory.php on line 30
+[06-May-2017 22:23:02 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ortizj36/public_html/PIN/Inventory.php:1) in /home/ortizj36/public_html/PIN/Inventory.php on line 3
+[06-May-2017 22:28:45 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ortizj36/public_html/PIN/Inventory.php:1) in /home/ortizj36/public_html/PIN/Inventory.php on line 3
+[06-May-2017 22:28:59 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ortizj36/public_html/PIN/Inventory.php:1) in /home/ortizj36/public_html/PIN/Inventory.php on line 3
+[06-May-2017 22:32:20 UTC] PHP Warning:  move_uploaded_file(/~ortizj36/PIN/inventory_Images/46.jpg): failed to open stream: No such file or directory in /home/ortizj36/public_html/PIN/inventory_list.php on line 61
+[06-May-2017 22:32:20 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpRhf1kS' to '/~ortizj36/PIN/inventory_Images/46.jpg' in /home/ortizj36/public_html/PIN/inventory_list.php on line 61
+[06-May-2017 22:32:28 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ortizj36/public_html/PIN/Inventory.php:1) in /home/ortizj36/public_html/PIN/Inventory.php on line 3
+[06-May-2017 22:32:33 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ortizj36/public_html/PIN/Inventory.php:1) in /home/ortizj36/public_html/PIN/Inventory.php on line 3
+[06-May-2017 22:38:14 UTC] PHP Warning:  move_uploaded_file(/~ortizj36/PIN/inventory_Images/47.jpg): failed to open stream: No such file or directory in /home/ortizj36/public_html/PIN/inventory_list.php on line 62
+[06-May-2017 22:38:14 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpf98SjL' to '/~ortizj36/PIN/inventory_Images/47.jpg' in /home/ortizj36/public_html/PIN/inventory_list.php on line 62
+[06-May-2017 22:43:34 UTC] PHP Warning:  mysqli_query() expects parameter 3 to be integer, string given in /home/ortizj36/public_html/PIN/inventory_list.php on line 58
+[06-May-2017 22:43:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/ortizj36/public_html/PIN/inventory_list.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/ortizj36/public_html/PIN/inventory_list.php on line 58
+[06-May-2017 22:44:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/ortizj36/public_html/PIN/inventory_list.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/ortizj36/public_html/PIN/inventory_list.php on line 58
+[06-May-2017 22:45:20 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ortizj36/public_html/PIN/inventory_list.php on line 58
+[06-May-2017 22:46:39 UTC] PHP Warning:  move_uploaded_file(/~ortizj36/PIN/inventory_Images/48.jpg): failed to open stream: No such file or directory in /home/ortizj36/public_html/PIN/inventory_list.php on line 62
+[06-May-2017 22:46:39 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phphabNFr' to '/~ortizj36/PIN/inventory_Images/48.jpg' in /home/ortizj36/public_html/PIN/inventory_list.php on line 62
+[06-May-2017 22:49:07 UTC] PHP Warning:  move_uploaded_file(/~ortizj36/PIN/inventory_Images/49.jpg): failed to open stream: No such file or directory in /home/ortizj36/public_html/PIN/inventory_list.php on line 62
+[06-May-2017 22:49:07 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpaYIFJ0' to '/~ortizj36/PIN/inventory_Images/49.jpg' in /home/ortizj36/public_html/PIN/inventory_list.php on line 62
+[06-May-2017 22:50:42 UTC] PHP Warning:  move_uploaded_file(/~ortizj36/PIN/inventory_Images/50.jpg): failed to open stream: No such file or directory in /home/ortizj36/public_html/PIN/inventory_list.php on line 62
+[06-May-2017 22:50:42 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phptXRMjG' to '/~ortizj36/PIN/inventory_Images/50.jpg' in /home/ortizj36/public_html/PIN/inventory_list.php on line 62
+[06-May-2017 22:57:25 UTC] PHP Warning:  move_uploaded_file(/~ortizj36/PIN/inventory_Images/51.jpg): failed to open stream: No such file or directory in /home/ortizj36/public_html/PIN/inventory_list.php on line 62
+[06-May-2017 22:57:25 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpPEP6bP' to '/~ortizj36/PIN/inventory_Images/51.jpg' in /home/ortizj36/public_html/PIN/inventory_list.php on line 62
+[09-May-2017 01:31:57 UTC] PHP Warning:  move_uploaded_file(/~ortizj36/PIN/inventory_Images/52.jpg): failed to open stream: No such file or directory in /home/ortizj36/public_html/PIN/inventory_list.php on line 62
+[09-May-2017 01:31:57 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phptyx6Ek' to '/~ortizj36/PIN/inventory_Images/52.jpg' in /home/ortizj36/public_html/PIN/inventory_list.php on line 62
+[09-May-2017 01:38:14 UTC] PHP Warning:  move_uploaded_file(/~ortizj36/PIN/inventory_Images/53.jpg): failed to open stream: No such file or directory in /home/ortizj36/public_html/PIN/inventory_list.php on line 62
+[09-May-2017 01:38:14 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpPA8nUE' to '/~ortizj36/PIN/inventory_Images/53.jpg' in /home/ortizj36/public_html/PIN/inventory_list.php on line 62
+[09-May-2017 01:43:37 UTC] PHP Warning:  move_uploaded_file(/~ortizj36/PIN/inventory_Images/56.jpg): failed to open stream: No such file or directory in /home/ortizj36/public_html/PIN/inventory_list.php on line 62
+[09-May-2017 01:43:37 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpYP4ABh' to '/~ortizj36/PIN/inventory_Images/56.jpg' in /home/ortizj36/public_html/PIN/inventory_list.php on line 62
+[09-May-2017 01:47:17 UTC] PHP Warning:  move_uploaded_file(/~ortizj36/PIN/inventory_Images/58.jpg): failed to open stream: No such file or directory in /home/ortizj36/public_html/PIN/inventory_list.php on line 62
+[09-May-2017 01:47:17 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php9slWIQ' to '/~ortizj36/PIN/inventory_Images/58.jpg' in /home/ortizj36/public_html/PIN/inventory_list.php on line 62
+[09-May-2017 01:57:18 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ortizj36/public_html/PIN/inventory_edit.php:1) in /home/ortizj36/public_html/PIN/inventory_edit.php on line 4
+[09-May-2017 01:57:34 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ortizj36/public_html/PIN/inventory_edit.php:1) in /home/ortizj36/public_html/PIN/inventory_edit.php on line 4
+[09-May-2017 01:57:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/ortizj36/public_html/PIN/inventory_edit.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/ortizj36/public_html/PIN/inventory_edit.php on line 14
+[09-May-2017 02:00:08 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ortizj36/public_html/PIN/inventory_edit.php:1) in /home/ortizj36/public_html/PIN/inventory_edit.php on line 4
+[09-May-2017 02:00:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqil_real_escape_string() in /home/ortizj36/public_html/PIN/inventory_edit.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ortizj36/public_html/PIN/inventory_edit.php on line 16
+[09-May-2017 02:00:35 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ortizj36/public_html/PIN/inventory_edit.php:1) in /home/ortizj36/public_html/PIN/inventory_edit.php on line 4
+[09-May-2017 02:00:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_reali_escape_string() in /home/ortizj36/public_html/PIN/inventory_edit.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ortizj36/public_html/PIN/inventory_edit.php on line 18
+[09-May-2017 02:01:10 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ortizj36/public_html/PIN/inventory_edit.php:1) in /home/ortizj36/public_html/PIN/inventory_edit.php on line 4
+[09-May-2017 02:01:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_reali_escape_string() in /home/ortizj36/public_html/PIN/inventory_edit.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ortizj36/public_html/PIN/inventory_edit.php on line 18
+[09-May-2017 02:01:52 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ortizj36/public_html/PIN/inventory_edit.php:1) in /home/ortizj36/public_html/PIN/inventory_edit.php on line 4
+[09-May-2017 02:01:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_reali_escape_string() in /home/ortizj36/public_html/PIN/inventory_edit.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ortizj36/public_html/PIN/inventory_edit.php on line 18
+[09-May-2017 02:02:04 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ortizj36/public_html/PIN/inventory_edit.php:1) in /home/ortizj36/public_html/PIN/inventory_edit.php on line 4
+[09-May-2017 02:02:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_reali_escape_string() in /home/ortizj36/public_html/PIN/inventory_edit.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ortizj36/public_html/PIN/inventory_edit.php on line 18
+[09-May-2017 02:02:39 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ortizj36/public_html/PIN/inventory_edit.php:1) in /home/ortizj36/public_html/PIN/inventory_edit.php on line 4
+[09-May-2017 02:02:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/ortizj36/public_html/PIN/inventory_edit.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/ortizj36/public_html/PIN/inventory_edit.php on line 15
+[09-May-2017 02:02:56 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ortizj36/public_html/PIN/inventory_edit.php:1) in /home/ortizj36/public_html/PIN/inventory_edit.php on line 4
+[09-May-2017 02:02:56 UTC] PHP Warning:  move_uploaded_file(/~ortizj36/PIN/inventory_Images/33.jpg): failed to open stream: No such file or directory in /home/ortizj36/public_html/PIN/inventory_edit.php on line 28
+[09-May-2017 02:02:56 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpG6MOJJ' to '/~ortizj36/PIN/inventory_Images/33.jpg' in /home/ortizj36/public_html/PIN/inventory_edit.php on line 28
+[09-May-2017 02:02:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ortizj36/public_html/PIN/inventory_edit.php:1) in /home/ortizj36/public_html/PIN/inventory_edit.php on line 30
+[09-May-2017 02:03:43 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ortizj36/public_html/PIN/inventory_edit.php:1) in /home/ortizj36/public_html/PIN/inventory_edit.php on line 4
+[09-May-2017 02:03:43 UTC] PHP Warning:  move_uploaded_file(/~ortizj36/PIN/inventory_Images/33.jpg): failed to open stream: No such file or directory in /home/ortizj36/public_html/PIN/inventory_edit.php on line 29
+[09-May-2017 02:03:43 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpbqVrvx' to '/~ortizj36/PIN/inventory_Images/33.jpg' in /home/ortizj36/public_html/PIN/inventory_edit.php on line 29
+[09-May-2017 02:03:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ortizj36/public_html/PIN/inventory_edit.php:1) in /home/ortizj36/public_html/PIN/inventory_edit.php on line 31
+[09-May-2017 02:04:01 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ortizj36/public_html/PIN/inventory_edit.php:1) in /home/ortizj36/public_html/PIN/inventory_edit.php on line 4
+[09-May-2017 02:04:01 UTC] PHP Warning:  move_uploaded_file(/~ortizj36/PIN/inventory_Images/33.jpg): failed to open stream: No such file or directory in /home/ortizj36/public_html/PIN/inventory_edit.php on line 29
+[09-May-2017 02:04:01 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpt1OSwn' to '/~ortizj36/PIN/inventory_Images/33.jpg' in /home/ortizj36/public_html/PIN/inventory_edit.php on line 29
+[09-May-2017 02:04:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ortizj36/public_html/PIN/inventory_edit.php:1) in /home/ortizj36/public_html/PIN/inventory_edit.php on line 31
+[09-May-2017 02:05:43 UTC] PHP Warning:  move_uploaded_file(~ortizj36/PIN/inventory_Images/59.jpg): failed to open stream: No such file or directory in /home/ortizj36/public_html/PIN/inventory_list.php on line 62
+[09-May-2017 02:05:43 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpSwvO2M' to '~ortizj36/PIN/inventory_Images/59.jpg' in /home/ortizj36/public_html/PIN/inventory_list.php on line 62
+[09-May-2017 02:05:58 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ortizj36/public_html/PIN/Inventory.php:1) in /home/ortizj36/public_html/PIN/Inventory.php on line 3
+[09-May-2017 02:06:03 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ortizj36/public_html/PIN/Inventory.php:1) in /home/ortizj36/public_html/PIN/Inventory.php on line 3
+[09-May-2017 02:06:55 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ortizj36/public_html/PIN/Inventory.php:1) in /home/ortizj36/public_html/PIN/Inventory.php on line 3
+[09-May-2017 02:06:56 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ortizj36/public_html/PIN/Inventory.php:1) in /home/ortizj36/public_html/PIN/Inventory.php on line 3
+[09-May-2017 02:06:58 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ortizj36/public_html/PIN/Inventory.php:1) in /home/ortizj36/public_html/PIN/Inventory.php on line 3
+[09-May-2017 02:07:02 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ortizj36/public_html/PIN/inventory_edit.php:1) in /home/ortizj36/public_html/PIN/inventory_edit.php on line 4
+[09-May-2017 02:07:33 UTC] PHP Warning:  move_uploaded_file(~ortizj36/PIN/inventory_Images/60.jpg): failed to open stream: No such file or directory in /home/ortizj36/public_html/PIN/inventory_list.php on line 62
+[09-May-2017 02:07:33 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpbcfeDJ' to '~ortizj36/PIN/inventory_Images/60.jpg' in /home/ortizj36/public_html/PIN/inventory_list.php on line 62
+[09-May-2017 02:07:44 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ortizj36/public_html/PIN/Inventory.php:1) in /home/ortizj36/public_html/PIN/Inventory.php on line 3
+[09-May-2017 02:09:26 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ortizj36/public_html/PIN/Inventory.php:1) in /home/ortizj36/public_html/PIN/Inventory.php on line 3
+[09-May-2017 02:09:28 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ortizj36/public_html/PIN/Inventory.php:1) in /home/ortizj36/public_html/PIN/Inventory.php on line 3
+[09-May-2017 02:23:07 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ortizj36/public_html/PIN/Inventory.php:1) in /home/ortizj36/public_html/PIN/Inventory.php on line 3
+[09-May-2017 02:30:05 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ortizj36/public_html/PIN/Inventory.php:1) in /home/ortizj36/public_html/PIN/Inventory.php on line 3
+[09-May-2017 02:30:22 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ortizj36/public_html/PIN/Inventory.php:1) in /home/ortizj36/public_html/PIN/Inventory.php on line 3
+[09-May-2017 02:30:24 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ortizj36/public_html/PIN/Inventory.php:1) in /home/ortizj36/public_html/PIN/Inventory.php on line 3
+[09-May-2017 02:30:49 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ortizj36/public_html/PIN/Inventory.php:1) in /home/ortizj36/public_html/PIN/Inventory.php on line 3
+[09-May-2017 02:30:49 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ortizj36/public_html/PIN/Inventory.php:1) in /home/ortizj36/public_html/PIN/Inventory.php on line 3
+[09-May-2017 02:30:50 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ortizj36/public_html/PIN/Inventory.php:1) in /home/ortizj36/public_html/PIN/Inventory.php on line 3
+[09-May-2017 03:10:34 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/ortizj36/public_html/PIN/inventory_edit.php on line 10
+[09-May-2017 03:11:01 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ortizj36/public_html/PIN/inventory_edit.php:1) in /home/ortizj36/public_html/PIN/inventory_edit.php on line 3
+[09-May-2017 03:11:13 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ortizj36/public_html/PIN/inventory_edit.php:1) in /home/ortizj36/public_html/PIN/inventory_edit.php on line 3
+[09-May-2017 03:11:13 UTC] PHP Warning:  move_uploaded_file(/~ortizj36/PIN/inventory_Images/29.jpg): failed to open stream: No such file or directory in /home/ortizj36/public_html/PIN/inventory_edit.php on line 28
+[09-May-2017 03:11:13 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpstg42j' to '/~ortizj36/PIN/inventory_Images/29.jpg' in /home/ortizj36/public_html/PIN/inventory_edit.php on line 28
+[09-May-2017 03:11:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ortizj36/public_html/PIN/inventory_edit.php:1) in /home/ortizj36/public_html/PIN/inventory_edit.php on line 30
+[09-May-2017 03:12:12 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ortizj36/public_html/PIN/inventory_edit.php:1) in /home/ortizj36/public_html/PIN/inventory_edit.php on line 3
+[09-May-2017 03:12:49 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ortizj36/public_html/PIN/inventory_edit.php:1) in /home/ortizj36/public_html/PIN/inventory_edit.php on line 3
+[09-May-2017 03:12:54 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ortizj36/public_html/PIN/inventory_edit.php:1) in /home/ortizj36/public_html/PIN/inventory_edit.php on line 3
+[09-May-2017 03:12:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ortizj36/public_html/PIN/inventory_edit.php:1) in /home/ortizj36/public_html/PIN/inventory_edit.php on line 30
+[09-May-2017 03:17:09 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ortizj36/public_html/PIN/inventory_edit.php:1) in /home/ortizj36/public_html/PIN/inventory_edit.php on line 3
+[09-May-2017 03:17:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ortizj36/public_html/PIN/inventory_edit.php:1) in /home/ortizj36/public_html/PIN/inventory_edit.php on line 31
+[09-May-2017 03:17:12 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ortizj36/public_html/PIN/inventory_edit.php:1) in /home/ortizj36/public_html/PIN/inventory_edit.php on line 3
+[09-May-2017 03:17:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ortizj36/public_html/PIN/inventory_edit.php:1) in /home/ortizj36/public_html/PIN/inventory_edit.php on line 31
+[09-May-2017 03:45:19 UTC] PHP Notice:  Undefined variable: searchMenu in /home/ortizj36/public_html/PIN/template_header.php on line 61
+[09-May-2017 03:45:19 UTC] PHP Notice:  Undefined variable: pastTransactionsMenu in /home/ortizj36/public_html/PIN/template_header.php on line 65
+[09-May-2017 03:45:36 UTC] PHP Notice:  Undefined variable: searchMenu in /home/ortizj36/public_html/PIN/template_header.php on line 61
+[09-May-2017 03:45:36 UTC] PHP Notice:  Undefined variable: pastTransactionsMenu in /home/ortizj36/public_html/PIN/template_header.php on line 65
+[09-May-2017 03:45:40 UTC] PHP Notice:  Undefined variable: searchMenu in /home/ortizj36/public_html/PIN/template_header.php on line 61
+[09-May-2017 03:45:40 UTC] PHP Notice:  Undefined variable: pastTransactionsMenu in /home/ortizj36/public_html/PIN/template_header.php on line 65
+[09-May-2017 03:46:03 UTC] PHP Notice:  Undefined variable: searchMenu in /home/ortizj36/public_html/PIN/template_header.php on line 61
+[09-May-2017 03:46:03 UTC] PHP Notice:  Undefined variable: pastTransactionsMenu in /home/ortizj36/public_html/PIN/template_header.php on line 65
+[09-May-2017 03:46:17 UTC] PHP Notice:  Undefined variable: searchMenu in /home/ortizj36/public_html/PIN/template_header.php on line 61
+[09-May-2017 03:46:17 UTC] PHP Notice:  Undefined variable: pastTransactionsMenu in /home/ortizj36/public_html/PIN/template_header.php on line 65
+[09-May-2017 03:48:25 UTC] PHP Notice:  Undefined variable: searchMenu in /home/ortizj36/public_html/PIN/template_header.php on line 61
+[09-May-2017 03:48:25 UTC] PHP Notice:  Undefined variable: pastTransactionsMenu in /home/ortizj36/public_html/PIN/template_header.php on line 65
+[09-May-2017 03:48:26 UTC] PHP Notice:  Undefined variable: searchMenu in /home/ortizj36/public_html/PIN/template_header.php on line 61
+[09-May-2017 03:48:26 UTC] PHP Notice:  Undefined variable: pastTransactionsMenu in /home/ortizj36/public_html/PIN/template_header.php on line 65
+[09-May-2017 03:48:27 UTC] PHP Notice:  Undefined variable: searchMenu in /home/ortizj36/public_html/PIN/template_header.php on line 61
+[09-May-2017 03:48:27 UTC] PHP Notice:  Undefined variable: pastTransactionsMenu in /home/ortizj36/public_html/PIN/template_header.php on line 65
+[09-May-2017 03:48:48 UTC] PHP Notice:  Undefined variable: searchMenu in /home/ortizj36/public_html/PIN/template_header.php on line 61
+[09-May-2017 03:48:48 UTC] PHP Notice:  Undefined variable: pastTransactionsMenu in /home/ortizj36/public_html/PIN/template_header.php on line 65
+[09-May-2017 04:40:21 UTC] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home/ortizj36/public_html/PIN/checkOut.php on line 80
+[09-May-2017 04:45:11 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ortizj36/public_html/PIN/checkOut.php on line 75
+[09-May-2017 04:53:33 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/ortizj36/public_html/PIN/checkOut.php on line 5
+[09-May-2017 04:53:59 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/ortizj36/public_html/PIN/checkOut.php on line 5
+[09-May-2017 04:54:23 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/ortizj36/public_html/PIN/checkOut.php on line 5
+[09-May-2017 04:54:42 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/ortizj36/public_html/PIN/checkOut.php on line 5
+[09-May-2017 04:55:07 UTC] PHP Warning:  require(/home/ortizj36/public_html/PIN/twilio-php-master/Twilio/autoload.php): failed to open stream: No such file or directory in /home/ortizj36/public_html/PIN/checkOut.php on line 8
+[09-May-2017 04:55:07 UTC] PHP Fatal error:  require(): Failed opening required '/home/ortizj36/public_html/PIN/twilio-php-master/Twilio/autoload.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/ortizj36/public_html/PIN/checkOut.php on line 8
+[09-May-2017 05:03:25 UTC] PHP Fatal error:  Uncaught Twilio\Exceptions\RestException: [HTTP 400] Unable to create record: The 'To' number +120125725400 is not a valid phone number. in /home/ortizj36/public_html/PIN/twilio-php-master/Twilio/Version.php:85
+Stack trace:
+#0 /home/ortizj36/public_html/PIN/twilio-php-master/Twilio/Version.php(207): Twilio\Version->exception(Object(Twilio\Http\Response), 'Unable to creat...')
+#1 /home/ortizj36/public_html/PIN/twilio-php-master/Twilio/Rest/Api/V2010/Account/MessageList.php(63): Twilio\Version->create('POST', '/Accounts/ACbdd...', Array, Array)
+#2 /home/ortizj36/public_html/PIN/checkOut.php(95): Twilio\Rest\Api\V2010\Account\MessageList->create('+120125725400', Object(Twilio\Values))
+#3 {main}
+  thrown in /home/ortizj36/public_html/PIN/twilio-php-master/Twilio/Version.php on line 85
+[09-May-2017 05:07:48 UTC] PHP Fatal error:  Uncaught Twilio\Exceptions\RestException: [HTTP 400] Unable to create record: The 'To' number +120125725400 is not a valid phone number. in /home/ortizj36/public_html/PIN/twilio-php-master/Twilio/Version.php:85
+Stack trace:
+#0 /home/ortizj36/public_html/PIN/twilio-php-master/Twilio/Version.php(207): Twilio\Version->exception(Object(Twilio\Http\Response), 'Unable to creat...')
+#1 /home/ortizj36/public_html/PIN/twilio-php-master/Twilio/Rest/Api/V2010/Account/MessageList.php(63): Twilio\Version->create('POST', '/Accounts/ACbdd...', Array, Array)
+#2 /home/ortizj36/public_html/PIN/checkOut.php(95): Twilio\Rest\Api\V2010\Account\MessageList->create('+120125725400', Object(Twilio\Values))
+#3 {main}
+  thrown in /home/ortizj36/public_html/PIN/twilio-php-master/Twilio/Version.php on line 85
+[09-May-2017 06:25:40 UTC] PHP Warning:  move_uploaded_file(/~ortizj36/PIN/inventory_Images/64.jpg): failed to open stream: No such file or directory in /home/ortizj36/public_html/PIN/inventory_list.php on line 64
+[09-May-2017 06:25:40 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpl9ZPe5' to '/~ortizj36/PIN/inventory_Images/64.jpg' in /home/ortizj36/public_html/PIN/inventory_list.php on line 64
+[09-May-2017 06:30:41 UTC] PHP Warning:  move_uploaded_file(/~ortizj36/PIN/inventory_Images/65.jpg): failed to open stream: No such file or directory in /home/ortizj36/public_html/PIN/inventory_list.php on line 65
+[09-May-2017 06:30:41 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpsHpEM2' to '/~ortizj36/PIN/inventory_Images/65.jpg' in /home/ortizj36/public_html/PIN/inventory_list.php on line 65
+[09-May-2017 06:34:06 UTC] PHP Warning:  move_uploaded_file(/~ortizj36/PIN/inventory_Images/66.jpg): failed to open stream: No such file or directory in /home/ortizj36/public_html/PIN/inventory_list.php on line 64
+[09-May-2017 06:34:06 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpNuYrfN' to '/~ortizj36/PIN/inventory_Images/66.jpg' in /home/ortizj36/public_html/PIN/inventory_list.php on line 64
+[09-May-2017 06:35:29 UTC] PHP Warning:  move_uploaded_file(/~ortizj36/PIN/inventory_Images/67.jpg): failed to open stream: No such file or directory in /home/ortizj36/public_html/PIN/inventory_list.php on line 64
+[09-May-2017 06:35:29 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php7oTlv5' to '/~ortizj36/PIN/inventory_Images/67.jpg' in /home/ortizj36/public_html/PIN/inventory_list.php on line 64
+[09-May-2017 06:37:09 UTC] PHP Warning:  move_uploaded_file(/~ortizj36/PIN/inventory_Images/68.jpg): failed to open stream: No such file or directory in /home/ortizj36/public_html/PIN/inventory_list.php on line 64
+[09-May-2017 06:37:09 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpVDLnMd' to '/~ortizj36/PIN/inventory_Images/68.jpg' in /home/ortizj36/public_html/PIN/inventory_list.php on line 64
+[09-May-2017 06:48:01 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ortizj36/public_html/PIN/inventory_edit.php on line 44
+[09-May-2017 06:59:03 UTC] PHP Warning:  move_uploaded_file(/~ortizj36/PIN/inventory_Images/69.jpg): failed to open stream: No such file or directory in /home/ortizj36/public_html/PIN/inventory_list.php on line 64
+[09-May-2017 06:59:03 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpAoep2r' to '/~ortizj36/PIN/inventory_Images/69.jpg' in /home/ortizj36/public_html/PIN/inventory_list.php on line 64
+[09-May-2017 07:03:04 UTC] PHP Warning:  move_uploaded_file(/~ortizj36/PIN/inventory_Images/70.jpg): failed to open stream: No such file or directory in /home/ortizj36/public_html/PIN/inventory_list.php on line 64
+[09-May-2017 07:03:04 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpiJR8l4' to '/~ortizj36/PIN/inventory_Images/70.jpg' in /home/ortizj36/public_html/PIN/inventory_list.php on line 64
+[09-May-2017 07:04:24 UTC] PHP Warning:  move_uploaded_file(/~ortizj36/PIN/inventory_Images/71.jpg): failed to open stream: No such file or directory in /home/ortizj36/public_html/PIN/inventory_list.php on line 64
+[09-May-2017 07:04:24 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpQwHXHy' to '/~ortizj36/PIN/inventory_Images/71.jpg' in /home/ortizj36/public_html/PIN/inventory_list.php on line 64
+[09-May-2017 07:06:09 UTC] PHP Warning:  move_uploaded_file(/~ortizj36/PIN/inventory_Images/72.jpg): failed to open stream: No such file or directory in /home/ortizj36/public_html/PIN/inventory_list.php on line 64
+[09-May-2017 07:06:09 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpslkTI1' to '/~ortizj36/PIN/inventory_Images/72.jpg' in /home/ortizj36/public_html/PIN/inventory_list.php on line 64
+[09-May-2017 13:43:58 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/ortizj36/public_html/PIN/checkOut.php on line 116
+[09-May-2017 13:45:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function float() in /home/ortizj36/public_html/PIN/checkOut.php:116
+Stack trace:
+#0 {main}
+  thrown in /home/ortizj36/public_html/PIN/checkOut.php on line 116
