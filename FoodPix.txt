@@ -1,0 +1,13 @@
+BURGER					https://images-na.ssl-images-amazon.com/images/I/512pRO7nY9L._SX355_.jpg
+CHEESEBURGER				https://kentmanorinn.files.wordpress.com/2011/06/burger_istock_000005739545small.jpg
+TURKEY BURGER				http://www.simplyscratch.com/wp-content/uploads/2012/08/Turkey-Burger-01.jpg
+VEGGIE BURGER				http://www.contentednesscooking.com/wp-content/uploads/2015/12/Veggie-Burger-with-Cauliflower-3.jpg
+CHEESE STEAK				https://i0.wp.com/hapanom.com/wp-content/uploads/2015/02/Bulgogi-Cheesesteak-Recipe-Banner.jpg
+TILAPIA SANDWICH			http://normalcooking.com/wp-content/uploads/2014/04/Blackened-Tilapia-Sandwich-1.jpg
+GRILLED/CRISPY CHICKEN SANDWICH		https://www.chick-fil-a.com/-/media/Images/CFACOM/Menu-Items/WS-Menu-PDP-Images/Entrees/CFA_PDP_Grilled-Deluxe-Sandwich_1085.ashx
+CHICKEN TENDERS				https://ledopizza-meltediceberg.netdna-ssl.com/wp-content/uploads/2013/08/catering-chicken-fingers.jpg
+QUESADILLA				http://collegerecipes.com/wp-content/uploads/2013/05/Basic-Quesadilla.jpg
+CHICKEN/VEGGIE QUESADILLA		http://www.the-girl-who-ate-everything.com/wp-content/uploads/blogger/-sUkEb5vAjc0/T8oY5eb-2nI/AAAAAAAAI38/3F7hx2XM4Do/s1600/pineapple-chicken-quesadillas.JPG
+GRILLED CHEESE				http://www.seriouseats.com/recipes/assets_c/2013/04/20130416-grilled-cheese-variations-2-10-thumb-625xauto-319712.jpg
+FRIES					http://www.eatthelove.com/wp-content/uploads/2011/07/CajunFries-1.jpg
+ONION RINGS				http://www.seriouseats.com/recipes/assets_c/2015/09/20150927-food-lab-onion-rings-20-thumb-1500xauto-426805.jpg
