@@ -94,9 +94,9 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>Inventory List</title>
-<link rel="icon" href="/~ortizj36/PIN/images/icon.png"> 	
-<link rel="stylesheet" href="/~ortizj36/PIN/style/style.css" type="text/css" media="screen" />
-<link rel="stylesheet" href="/~ortizj36/PIN/style/styleCheckOut.css" type="text/css" media="screen" />
+<link rel="icon" href="images/icon.png"> 	
+<link rel="stylesheet" href="style/style.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="style/styleCheckOut.css" type="text/css" media="screen" />
 </head>
 
 <body>

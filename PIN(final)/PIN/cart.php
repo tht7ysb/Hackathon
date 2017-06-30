@@ -109,15 +109,15 @@ if (isset($_SESSION["customer_id"])) {
 	$_SESSION["copy_cart_array"] = $_SESSION["cart_array"];
 	
 	if (!isset($_SESSION["cart_array"]) || count($_SESSION["cart_array"]) < 1) {
-		$cartOutput = '<img src="/~ortizj36/PIN/images/shoppingCart.jpg"  />';
+		$cartOutput = '<img src="images/shoppingCart.jpg"  />';
 		$shoppingCartButton = "";
 	
 	} 
 	else {
 		
-		$shoppingCartButton = '<a class="buttons" href="/~ortizj36/PIN/checkOut.php"  style="float:right"><b>Checkout Now</b></a>';
+		$shoppingCartButton = '<a class="buttons" href="checkOut.php"  style="float:right"><b>Checkout Now</b></a>';
 		$i = 0; 
-		$cartOutput .= "<a href='/~ortizj36/PIN/cart.php?cmd=emptycart'>Click Here to Empty Your Shopping Cart</a>";
+		$cartOutput .= "<a href='cart.php?cmd=emptycart'>Click Here to Empty Your Shopping Cart</a>";
 		foreach ($_SESSION["cart_array"] as $each_item) { 
 			$item_id = $each_item['item_id'];
 			$sql = mysqli_query($link,"SELECT * FROM products WHERE id='$item_id' LIMIT 1");
@@ -138,17 +138,17 @@ if (isset($_SESSION["customer_id"])) {
 
 			//$cartOutput .= "<a href='cart.php?cmd=emptycart'>Click Here to Empty Your Shopping Cart</a>";
 			$cartOutput .= "<tr>";
-			$cartOutput .= '<td><a href="/~ortizj36/PIN/product.php?id=' . $item_id . '">' . $product_name . '</a><br /><img src="/~ortizj36/PIN/inventory_Images/' . $item_id . '.jpg" alt="' . $product_name. '" width="40" height="52" border="1" /></td>';
+			$cartOutput .= '<td><a href="product.php?id=' . $item_id . '">' . $product_name . '</a><br /><img src="inventory_Images/' . $item_id . '.jpg" alt="' . $product_name. '" width="40" height="52" border="1" /></td>';
 			$cartOutput .= '<td>' . $details . '</td>';
 			$cartOutput .= '<td>$' . number_format($price,2) . '</td>';
-			$cartOutput .= '<td><form action="/~ortizj36/PIN/cart.php" method="post">
+			$cartOutput .= '<td><form action="cart.php" method="post">
 			<input name="quantity" type="text" value="' . $each_item['quantity'] . '" size="1" maxlength="2" />
 			<input name="adjustBtn' . $item_id . '" type="submit" value="update" />
 			<input name="item_to_adjust" type="hidden" value="' . $item_id . '" />
 			</form></td>';
 
 			$cartOutput .= '<td>' .'$'. number_format($pricetotal,2) . '</td>';
-			$cartOutput .= '<td><form action="/~ortizj36/PIN/cart.php" method="post"><input name="deleteBtn' . $item_id . '" type="submit" value="X" /><input name="index_to_remove" type="hidden" value="' . $i . '" /></form></td>';
+			$cartOutput .= '<td><form action="cart.php" method="post"><input name="deleteBtn' . $item_id . '" type="submit" value="X" /><input name="index_to_remove" type="hidden" value="' . $i . '" /></form></td>';
 			$cartOutput .= '</tr>';
 			$i++; 
 		} 
@@ -168,25 +168,13 @@ if (isset($_SESSION["customer_id"])) {
 		
 		$_SESSION["cart_total"] = $cartTotal ;
 	
-		//calculate shipping
-		$shippingAmount = "15.00";
-		if ($cartTotal > "100.00") {
-			$shippingAmount = "0.00";
-		}
-		
-		
-		//calculate discount
-		
-			$discount = $cartTotal * 0.1;
-			
 		
 		
 		
 		
 		
 		
-		//$shippingAmountToShow = "<div style='font-size:18px; margin-top:12px; margin-left:36%'>Shipping Amount : $ ".number_format($shippingAmount,2)." </div>";
-		$totalAmount = $cartTotal + $shippingAmount - $discount;
+		$totalAmount = $cartTotal;
 		
 		
 		$cartTotalToShowTable.= '<table class="checkOut" border="0" style="float:right" >
@@ -196,14 +184,7 @@ if (isset($_SESSION["customer_id"])) {
 										<td></td>
 									</tr>
 									<tr>
-										<td style="text-align:right">Shipping Amount:</td>
-										<td>' . '$' . number_format($shippingAmount, 2) . '</td>
 										<td style="text-align:left; font-size:16px; color:#a89898;">&nbsp;&nbsp;free shipping over $100</td>
-									</tr>
-									<tr>
-										<td style="text-align:right">Discount:</td>
-										<td>' . '$' . number_format($discount, 2) . '</td>
-										<td style="text-align:left; font-size:16px; color:#a89898;">&nbsp;&nbsp;special sale 10% discount</td>
 									</tr>
 									<tr>
 										<td style="text-align:right;">Total Amount:</td>
@@ -243,7 +224,7 @@ if (isset($_SESSION["customer_id"])) {
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>Your Cart</title>
 
-<link rel="stylesheet" href="/~ortizj36/PIN/style/style.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="style/style.css" type="text/css" media="screen" />
 
 </head>
 <body>
@@ -271,7 +252,6 @@ if (isset($_SESSION["customer_id"])) {
 		</table>	
 		
 		<?php // echo $cartTotalToShow; ?>	
-		<?php //echo $shippingAmountToShow; ?>
 		<?php //echo $totalAmountToShow; ?>
 		<?php //echo $pp_checkout_btn; ?>
  

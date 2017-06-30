@@ -2,9 +2,9 @@
 session_start();
 include "connect_to_mysql.php"; 
 
-$pid = $_GET['pid'];
+$cid = $_GET['category'];
 $product_list = "";
-$sql = mysqli_query($link,"SELECT * FROM products WHERE category_id = " . $pid . " ORDER BY product_name ASC");
+$sql = mysqli_query($link,"SELECT * FROM products WHERE category = " . $cid . " ORDER BY product_name ASC");
 $productCount = mysqli_num_rows($sql); // count the number of records 
 if ($productCount > 0) {
 
@@ -19,10 +19,10 @@ if ($productCount > 0) {
 			if ($i == '0'){
 				$product_list .='
 				<tr>
-					<td  width="15%" valign="top"><a href="/~ortizj36/PIN/product.php?id=' . $id . '"><img style="border:#666 1px solid;" src="/~ortizj36/PIN/inventory_Images/' . $id . '.jpg" alt="' . $product_name . '" width="77" height="102" border="1" /></a></td>
+					<td  width="15%" valign="top"><a href="product.php?id=' . $id . '"><img style="border:#666 1px solid;" src="inventory_Images/' . $id . '.jpg" alt="' . $product_name . '" width="77" height="102" border="1" /></a></td>
 					<td width="35%" valign="top">' . $product_name . '<br />
 					$' . $price . '<br />
-					<a href="/~ortizj36/PIN/product.php?id=' . $id . '">View Product Details</a></td>';
+					<a href="product.php?id=' . $id . '">View Product Details</a></td>';
 				
 				$i = '1';
 				
@@ -30,10 +30,10 @@ if ($productCount > 0) {
 			}
 			else{
 				$product_list .='
-					<td width="15%" valign="top"><a href="/~ortizj36/PIN/product.php?id=' . $id . '"><img style="border:#666 1px solid;" src="/~ortizj36/PIN/inventory_Images/' . $id . '.jpg" alt="' . $product_name . '" width="77" height="102" border="1" /></a></td>
+					<td width="15%" valign="top"><a href="product.php?id=' . $id . '"><img style="border:#666 1px solid;" src="inventory_Images/' . $id . '.jpg" alt="' . $product_name . '" width="77" height="102" border="1" /></a></td>
 					<td width="35%" valign="top">' . $product_name . '<br />
 					$' . $price . '<br />
-					<a href="/~ortizj36/PIN/product.php?id=' . $id . '">View Product Details</a></td>';
+					<a href="product.php?id=' . $id . '">View Product Details</a></td>';
 				$i = '0';
 			}
 			$row_count++;
@@ -48,7 +48,7 @@ if ($productCount > 0) {
 } 
 else {
 	//$product_list = "You have no products listed in your store yet";
-	$product_list = '<img src="/~ortizj36/PIN/images/products.jpg"  />';
+	$product_list = '<img src="images/products.jpg"  />';
 }
 ?>
 
@@ -58,7 +58,7 @@ else {
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>Product List</title>
-<link rel="stylesheet" href="/~ortizj36/PIN/style/style.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="style/style.css" type="text/css" media="screen" />
 </head>
 
 <body>
